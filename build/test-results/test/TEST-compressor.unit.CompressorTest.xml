@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="compressor.unit.CompressorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-01T15:21:24" hostname="ip-10-104-198-101.eu-central-1.compute.internal" time="0.007">
+  <properties/>
+  <testcase name="compressorThrowsExceptionWhenFileIsNotFound()" classname="compressor.unit.CompressorTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
